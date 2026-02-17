@@ -1,6 +1,3 @@
-Here is a professional, industry-standard **README.md** file for your Weather Forecasting project. It is structured to highlight the technical depth (LSTM, Graph Theory) that companies like **Trademarkia** and **Antino** look for.
-
----
 
 # Weather Forecasting & Risk Propagation 🌦️📈
 
@@ -72,18 +69,7 @@ An advanced predictive system that leverages Deep Learning and Graph Theory to f
 ## 🔗 Project Link
 
 * 
-**Google Colab / Code**:  [Insert your actual Colab or GitHub link here]
+**Google Colab / Code**:  https://colab.research.google.com/drive/1BAAllYztik0FOCSKqa4S7FzqBaPaMCsI?usp=sharing
 
 
 
----
-
-### **How to add this to your GitHub:**
-
-1. Go to your **Weather Forecasting repository** on GitHub.
-2. Click **Add file**  **Create new file**.
-3. Name it `README.md`.
-4. **Paste** the content above.
-5. **Commit changes**.
-
-**Would you like me to also provide a specific "Project Description" blurb for your LinkedIn profile based on this analysis?**
